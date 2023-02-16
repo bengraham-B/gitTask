@@ -1,4 +1,6 @@
 //~ Used an html file to obtain input from the user
+const uiElement = document.querySelector("#ui-element")
+
 
 const input = prompt("Enter your name:")
-console.log("Hello " + input)
+uiElement.innerHTML = "Hello " + input 
