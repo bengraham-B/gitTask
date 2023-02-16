@@ -1,2 +1,10 @@
 Link to github repo:
 https://github.com/bengraham-B/gitTask
+
+
+--- Issues I created ---
+Add element to UI:
+Add a red square in which the text will be displayed.
+
+Time function. 
+Add a function to get the current time.
